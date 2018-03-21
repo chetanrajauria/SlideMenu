@@ -1,0 +1,5 @@
+
+target 'SlideMenuDemo' do
+use_frameworks!
+pod 'KYDrawerController'
+end
